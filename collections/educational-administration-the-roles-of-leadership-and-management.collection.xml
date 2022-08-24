@@ -1,3 +1,21 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10441</md:content-id>  <md:title>Educational Administration: The Roles of Leadership and Management</md:title>      <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>  <md:language>en</md:language>            <md:uuid>fd216b00-a56f-4eba-bf72-81eeadb85add</md:uuid>
-<md:slug>educational-administration-the-roles-of-leadership-and-management</md:slug>
-</metadata>  <col:content>          <col:module document="m13905"/>                            <col:module document="m14280"/>                            <col:module document="m13867"/>                            <col:module document="m13689"/>                            <col:module document="m13688"/>                            <col:module document="m13828"/>                            <col:module document="m13821"/>                            <col:module document="m14794"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="National Council of Professors  of Educational Administration">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10441</md:content-id>
+    <md:title>Educational Administration: The Roles of Leadership and Management</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>fd216b00-a56f-4eba-bf72-81eeadb85add</md:uuid>
+    <md:slug>educational-administration-the-roles-of-leadership-and-management</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m13905"/>
+    <col:module document="m14280"/>
+    <col:module document="m13867"/>
+    <col:module document="m13689"/>
+    <col:module document="m13688"/>
+    <col:module document="m13828"/>
+    <col:module document="m13821"/>
+    <col:module document="m14794"/>
+  </col:content>
+</col:collection>
